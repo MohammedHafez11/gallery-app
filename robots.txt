@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /admin/       # Disallow access to the admin directory
+Allow: /                # Allow access to all other areas
